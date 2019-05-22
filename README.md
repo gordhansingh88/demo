@@ -1,3 +1,3 @@
 # third commit
 
-Hi this is demo third commit
+git commit -am "git commit"
