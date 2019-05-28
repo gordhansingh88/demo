@@ -1,5 +1,4 @@
 
-this is something new
 
 shdkajhfd
 this to change GIT difftool command
