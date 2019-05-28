@@ -1,3 +1,4 @@
+this to change GIT difftool command
 this is git
 This is new addition in README file
 
