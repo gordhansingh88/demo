@@ -1,16 +1,11 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 
-<<<<<<< Updated upstream
-=======
 Hi this is README file from my-branch
 This is to see merge conflict in our branch and master branch
->>>>>>> Stashed changes
+
 Added new branch updates  . Added some more update
 Hi this is README file from my-branch
 This is to see merge conflict in our branch and master branch
->>>>>>> Stashed changes
+
 shdkajhfd
 this to change GIT difftool command
 this is git
@@ -26,17 +21,20 @@ askjdhf
 sjkdhfkjap
 alkjshdfkja
 
+
 This is to see merge conflict in our branch and master branch
->>>>>>> Stashed changes
-=======
+
+
 Hi this is README file from my-branch
 This is to see merge conflict in our branch and master branch
->>>>>>> Stashed changes
-=======
+
 Hi this is README file from my-branch
 This is to see merge conflict in our branch and master branch
->>>>>>> Stashed changes
-=======
+
+
 Hi this is README file from my-branch
 This is to see merge conflict in our branch and master branch
->>>>>>> Stashed changes
+
+
+This is different file
+
