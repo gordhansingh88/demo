@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 
 <<<<<<< Updated upstream
 =======
@@ -23,5 +24,9 @@ askjdhf
 sjkdhfkjap
 alkjshdfkja
 
+This is to see merge conflict in our branch and master branch
+>>>>>>> Stashed changes
+=======
+Hi this is README file from my-branch
 This is to see merge conflict in our branch and master branch
 >>>>>>> Stashed changes
