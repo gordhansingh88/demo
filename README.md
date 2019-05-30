@@ -2,7 +2,7 @@
 Hi this is README file from my-branch
 This is to see merge conflict in our branch and master branch
 
-Added new branch updates  . Added some more update
+Add76d new branch updates  . Added some more update
 Hi this is README file from my-branch
 This is to see merge conflict in our branch and master branch
 
