@@ -2,7 +2,9 @@
 Hi this is README file from my-branch
 This is to see merge conflict in our branch and master branch
 
-Add76d new branch updates  . Added some more update
+
+this is new Ad89d new branch updates  . Added some more update
+
 Hi this is README file from my-branch
 This is to see merge conflict in our branch and master branch
 
@@ -34,6 +36,8 @@ This is to see merge conflict in our branch and master branch
 
 Hi this is README file from my-branch
 This is to see merge conflict in our branch and master branch
+
+added new line
 
 
 This is different file
