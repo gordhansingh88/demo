@@ -2,9 +2,13 @@
 Hi this is README file from my-branch
 This is to see merge conflict in our branch and master branch
 
+<<<<<<< Updated upstream
 
 this is new Ad89d new branch updates  . Added some more update
 
+=======
+this is new Ad89d new branch updates  . Added some more update
+>>>>>>> Stashed changes
 Hi this is README file from my-branch
 This is to see merge conflict in our branch and master branch
 
