@@ -2,7 +2,7 @@
 Hi this is README file from my-branch
 This is to see merge conflict in our branch and master branch
 
-<<<<<<< Updated upstream
+this is first bit bucket change
 
 this is new Ad89d new branch updates  . Added some more update
 

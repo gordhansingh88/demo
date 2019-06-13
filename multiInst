@@ -1,0 +1,34 @@
+Hi Gordhan,
+
+The ELB IP is being randomly generated continuously so we don’t have any fixed IPs for ELBs.
+You can find out the current IPs by running a dig on:
+Volvo-UAT-63-AppELB-2095934557.eu-west-1.elb.amazonaws.com
+And
+volvo-test-63-1474509750.eu-west-1.elb.amazonaws.com
+
+Regards,
+
+
+Farm file :
+www.volvotrucks.ps-farm.any
+vhost File:
+www.volvotrucks.ps-vhosts.any -- it has host entry only
+Publish renders:
+"publish-renders.any" --  it has publisher details {
+  /hostname "10.43.32.59"
+  /port "4503"
+  /timeout "10000"
+  }
+
+Publish Invalidate:
+"publish-invalidate-allowed.any"
+
+
+staging-internal-job-opportunities.volvogroup.com.conf
+
+
+48u0zsbsi5-staging-internal-job-opportunities.volvogroup.com^
+
+staging-internal-job-opportunities.volvogroup.com.conf
+
+6f7oazu8hz-dev-internal-job-opportunities.volvogroup.com
